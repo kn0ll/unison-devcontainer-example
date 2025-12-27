@@ -1,0 +1,19 @@
+{
+  "name": "My Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/kn0ll/unison-devcontainer/ucm:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "unison-lang.unison"
+      ],
+      "settings": {
+        "files.exclude": {
+          ".unisonHistory": true
+        }
+      }
+    }
+  }
+}
