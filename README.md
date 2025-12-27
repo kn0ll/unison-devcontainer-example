@@ -1,8 +1,11 @@
-# Unison Project
+# Unison Devcontainer Example
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kn0ll/unison-devcontainer-exampletest?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kn0ll/unison-devcontainer-example)
 
-A Unison language project.
+# Features
+
+- Automatic UCM installation with [ghcr.io/kn0ll/unison-devcontainer/ucm](https://github.com/codespaces/new/kn0ll/unison-devcontainer)
+- Syntax highlighting and LSP support with [unison-lang.unison](https://marketplace.visualstudio.com/items?itemName=unison-lang.unison).
 
 ## Getting Started
 
