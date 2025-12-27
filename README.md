@@ -4,8 +4,9 @@
 
 # Features
 
-- Automatic UCM installation with [ghcr.io/kn0ll/unison-devcontainer/ucm](https://github.com/codespaces/new/kn0ll/unison-devcontainer)
-- Syntax highlighting and LSP support with [unison-lang.unison](https://marketplace.visualstudio.com/items?itemName=unison-lang.unison).
+- UCM installation [ghcr.io/kn0ll/unison-devcontainer/ucm](https://github.com/codespaces/new/kn0ll/unison-devcontainer)
+- Pre-configured MCP with [Unison MCP](https://www.unison-lang.org/docs/usage-topics/mcp-setup/)
+- Syntax highlighting and LSP with [unison-lang.unison](https://marketplace.visualstudio.com/items?itemName=unison-lang.unison)
 
 ## Getting Started
 

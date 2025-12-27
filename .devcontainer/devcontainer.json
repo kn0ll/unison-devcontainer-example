@@ -13,7 +13,17 @@
         "files.exclude": {
           ".unisonHistory": true
         }
-      }
+      },
+      "mcp": {
+				"inputs": [],
+				"servers": {
+					"unison": {
+						"type": "stdio",
+						"command": "/usr/local/bin/ucm",
+						"args": ["mcp"]
+					}
+				}
+			}
     }
   }
 }
